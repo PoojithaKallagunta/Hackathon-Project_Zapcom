@@ -2,7 +2,7 @@
 
 ## 1. Project Overview 
 
-### **Project Name**:*Voyage Ai- Travel Orchestrator* 
+### **Project Name**:*Voyage AI- AI Travel Orchestrator* 
 ### **Description:** 
 The AI Travel Orchestrator is a multi-agent system for rescheduling travel components like
 flights, cabs, and hotels when disruptions occur, such as flight delays. It comprises a
@@ -40,7 +40,7 @@ git clone https://github.com/Surisettideepika999/Hackathon_Zapcom_Voyage_ai.git
 ## 5. Directory Structure
 
 ```
-travel_project_hackathon/
+Travel_Project_Hackathon/
 │
 ├── backend/                            
 │   ├── __init__.py                  
