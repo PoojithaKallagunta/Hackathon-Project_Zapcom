@@ -25,7 +25,7 @@ uses LangGraph for workflow orchestration and Gemini Pro for decision-making
 
 ### Clone the Repository:
 ```
-git clone https://github.com/Surisettideepika999/Hackathon_Zapcom_Voyage_ai.git
+git clone [https://github.com/Surisettideepika999/Hackathon_Zapcom_Voyage_ai.git](https://github.com/PoojithaKallagunta/Hackathon-Project_Zapcom.git)
 ```
 
 ## 4. Configuration
