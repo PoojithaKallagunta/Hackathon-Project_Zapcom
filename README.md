@@ -1,4 +1,4 @@
-# Voyage ai
+# Voyage AI
 
 ## 1. Project Overview 
 
