@@ -1,0 +1,29 @@
+[
+    {
+        "userdetails": {
+            "first_name": "Poojitha",
+            "last_name": "Kallagunta",
+            "name": "Poojitha Kallagunta",
+            "phone_number": "8367461950",
+            "email": "poojithakallagunta@gmail.com",
+            "password": "Poojitha@26"
+        },
+        "flightdetails": {
+            "source": "BOS",
+            "destination": "SFO",
+            "until_date": "2025-06-26",
+            "airline": "united airlines"
+        },
+        "hoteldetails": {
+            "cityname": "Chicago",
+            "num_of_rooms": 2,
+            "checkin_date": "2025-06-27",
+            "checkout_date": "2025-06-29"
+        },
+        "cabdetails": {
+            "num_passengers": 2,
+            "ride_type": "uberX",
+            "user_prefs": "NA"
+        }
+    }
+]
